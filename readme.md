@@ -107,6 +107,12 @@ You’ll see counters like:
 
 ---
 
+Run your produce_demo.py and consume_demo.py to generate events.
+
+Watch Prometheus update on localhost:9090
+
+See dashboards update live in Grafana localhost:3000
+
 ## ⚙️ Change Kafka Broker or Topic
 
 Edit the values in `kafkalibs/config.py`:
