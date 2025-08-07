@@ -60,6 +60,10 @@ docker run -d --name kafka --network kafka-net -p 9092:9092 \
   wurstmeister/kafka
 ```
 
+Or
+
+docker-compose up -d
+
 ---
 
 ### 3. 📤 Run Kafka Producer
